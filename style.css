@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+}
+.genre{
+
+    display: grid;
+  grid-template-columns: 200px 200px 200px 200px 200px 200px 200px;
+  text-align: center;
+  background-color: aliceblue;
+}
+.style{
+
+  display: grid;
+grid-template-columns: 200px 200px 200px 200px 200px 200px 200px;
+text-align: center;
+background-color: lightgoldenrodyellow;
+
+}
+.artist{
+
+  display: grid;
+grid-template-columns: 200px 200px 200px 200px 200px 200px 200px;
+text-align: center;
+background-color:  #edd6fc;
+
+}
