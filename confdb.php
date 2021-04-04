@@ -2,8 +2,8 @@
 /*On définit toutes les constantes dans ce fichier là*/
   const DB_HOST    = "localhost";
   const DB_NAME    = "findlay";
-  const DB_LOGIN   = "root";
-  const DB_PASS    = "kahina";
+  const DB_LOGIN   = "XXXXXXXXX";
+  const DB_PASS    = "XXXXXXXXX";
 
   const DB_DRIVER  = "mysql";
   const DB_CHARSET = "utf8mb4";
